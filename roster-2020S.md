@@ -67,4 +67,4 @@
 | 1108 | 郭文潇 | [gwx19](markdown/2020-Spring/1108-郭文潇.md) |      |
 | 0514 | 张健 | [zhajha](markdown/2020-Spring/0514-张健.mad) |      |
 | 1168 | 陈罡儒 | [cgr](markdown/2020-Spring/1168-陈罡儒.md) |      |     
-
+| 0830 | 高瞻远 | [Gaozy2000](markdown/2020-Spring/0830-高瞻远.md) |      |
